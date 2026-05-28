@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi 👋
 
-<!--
-**Zaixiao/Zaixiao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm interested in:
 
-Here are some ideas to get you started:
+* AI
+* NLP
+* Data Science
+* Visualization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently learning:
+
+* Python
+* React
+* Docker
+* Machine Learning
+
+## Projects
+
+* Twitter/X Sentiment Analysis
+* Crypto Emotion Dashboard
+* UAV Research
+
+## Tech Stack
+
+* Python
+* JavaScript
+* Git
+* SQL
